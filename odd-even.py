@@ -13,3 +13,13 @@ else:
 
 # Keep container running
 time.sleep(3600)
+
+
+
+
+// docker login
+// docker build -t username/imagename .
+//docker push username/imagename
+// kubectl apply -f deployment.yaml
+// kubectl get pods 
+//kubectl log <pods>
