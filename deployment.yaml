@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: python-container
-        image: abdul2108/odd-even:1.0
+        image: username/odd-even:1.0
